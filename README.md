@@ -1,4 +1,4 @@
-# Project 3: Predicting Subreddit Classification using NLP
+'![Alt Text](/images/Reddit.png)' # Project 3: Predicting Subreddit Classification using NLP
 
 
 ### Problem Statement
