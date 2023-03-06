@@ -7,6 +7,8 @@ Our consumer research firm is collaborating with a client to gain insights into 
 
 Our analysis will create a model that can take in text data from our client and predict the most suitable language for advertisement in either community. This will help our client gain a deeper understanding of the needs and preferences of these two groups, and inform their marketing and product development strategies.
 
+--- 
+
 ### Subreddit Selection and Descriptions
 
 The two subreddits that we will be analyzing with our Natural Language Processing (NLP) Model are r/Parenting and r/Childfree. Below are the descriptions of both subreddits.
@@ -23,6 +25,8 @@ The subreddit is a space for people to discuss the challenges and benefits of li
 
 
 Both subreddits will serve our client well and help them further their mission in correctly reaching prospective customers.
+
+--- 
 
 ### Subreddit Statistics
 
@@ -42,6 +46,7 @@ Both r/Parenting and r/Childfree are popular subreddits that have both experienc
 
 In 2023, r/childfree has ~1.5 million pageviews and 158,000 unique visitors per day, while r/parenting has an estimated 2.2 million pageviews and 258,000 unique visitors per day.
 
+---
 
 ### Conclusion
 
@@ -53,6 +58,8 @@ Our analysis also revealed that the sentiment in the childfree subreddit was gen
 
 Overall, our model can help our client gain deeper insights into the language and tone preferred by each subreddit's users, which will be instrumental in developing effective marketing and product development strategies. By leveraging the power of natural language processing and machine learning, our client can stay ahead of the curve in understanding and catering to the distinct behaviors and preferences of customers who have children and those who do not.
 
+---
+
 ### Recommendations
 
 1. Use the insights gained from the sentiment analysis to tailor products and services for each subreddit's users. This can help improve customer satisfaction and loyalty.
@@ -62,6 +69,8 @@ Overall, our model can help our client gain deeper insights into the language an
 3. Collect and analyze more data from subreddits or other online communities to gain a deeper understanding of the language and tone preferred by different groups of customers.
 
 4. Develop targeted advertising campaigns that resonate with the intended audience, based on the insights gained from the analysis. This can help improve the effectiveness of advertising campaigns and lead to increased sales and revenue.
+
+--- 
 
 ### Data Dictionary
 
@@ -78,6 +87,8 @@ Overall, our model can help our client gain deeper insights into the language an
 | permalink   | Permanent URL of the post | string |
 | url         | URL of the post content | string |
 | is_self     | Boolean indicating if the post is a self-post or not | boolean |
+
+--- 
 
 ### References
 
