@@ -1,4 +1,4 @@
-# Project 3: Predicting Subreddit Classification using NLP
+# Predicting Subreddit Classification using NLP
 
 
 ### Problem Statement
